@@ -1,0 +1,5 @@
+awswrangler==2.15.1
+boto3==1.20.25
+draft_kings==3.1.0
+MLB_StatsAPI==1.4.2
+pandas==1.4.2
